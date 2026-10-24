@@ -1,0 +1,6 @@
+{
+  "name": "Tizen PDF Reader",
+  "description": "Tizen OS PDF reader application for Samsung Smart TVs, Galaxy Watches, and smart displays with remote D-Pad, rotary bezel control, and WGT packaging.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
